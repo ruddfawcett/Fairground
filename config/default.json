@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/Fairground",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "1XGEhxe00wye1CfmeRBvhmxnjLcjj+npSyeH6l/+xBFnCACJPPRHszjg1MfNwo2mlj2n9fh701/qnN1kBVD5nA=="
+    },
+    "local": {}
+  }
+}
